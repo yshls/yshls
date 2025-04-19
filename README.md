@@ -31,7 +31,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yshls&show_icons=true&theme=slateorange&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" height="200"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshls&layout=compact&theme=slateorange&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yshls&show_icons=true&theme=slateorange&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" width="450" height="200"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshls&layout=compact&theme=slateorange&hide_border=true"  width="450" height="200"/>
  
 </p>
 
