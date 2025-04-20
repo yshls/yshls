@@ -28,12 +28,13 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yshls&show_icons=true&theme=slateorange&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" width="350" />
-</p>
-<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshls&layout=compact&theme=slateorange&hide_border=true" width="350" />
+</p> 
+<!-- <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshls&layout=compact&theme=slateorange&hide_border=true" width="350" />
-</p>
+</p> -->
 
 ---
 
