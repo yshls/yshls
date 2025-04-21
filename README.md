@@ -50,7 +50,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:shluxnsal01@gmail.com">
     <img src="https://img.shields.io/badge/Email-FBA12F?style=flat-square&logo=gmail&logoColor=white&labelColor=white&color=FBA12F" />
   </a>
   &nbsp;&nbsp;&nbsp;
