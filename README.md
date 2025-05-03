@@ -46,12 +46,4 @@
 - Building things I believe in
 ---
 
-## 📫 Contact
 
-<p align="center">
-  <a href="mailto:shluxnsal01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FBA12F?style=flat-square&logo=gmail&logoColor=white&labelColor=white&color=FBA12F" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=yshls&label=Profile+Views&color=FBA12F&style=flat-square" />
-</p>
