@@ -43,7 +43,6 @@
 - Enhancing React skills  
 - Practicing algorithms and data structures  
 - Designing accessible UI components  
-- Building things I believe in
 ---
 
 
