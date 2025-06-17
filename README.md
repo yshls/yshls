@@ -45,4 +45,4 @@
 ---
 
 ## 📕 Latest Blog Posts
-<ul><li><a href='https://recordoftheday.tistory.com/entry/URECA-3%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' target='_blank'>[URECA] 학습 블로깅은 데일리 프로젝트 회고로 대체</a></li><li><a href='https://recordoftheday.tistory.com/entry/LabbitLog-%EB%B0%B0%ED%8F%AC' target='_blank'>LabbitLog 배포</a></li><li><a href='https://recordoftheday.tistory.com/entry/URECA-LabiitLog-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0' target='_blank'>[URECA] LabiitLog 블로그 만들기</a></li></ul>
+<ul><li><a href='https://recordoftheday.tistory.com/entry/URECA-3%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' target='_blank'>[URECA] 학습 블로깅은 데일리 프로젝트 회고로 대체</a></li><li><a href='https://recordoftheday.tistory.com/entry/CD-%EB%A7%8C%EB%93%A0-%EA%B3%BC%EC%A0%95-%ED%8F%AC%EC%8A%A4%ED%8C%85%EA%B8%80%EC%9D%80-%EC%A0%90%ED%94%84-%ED%9B%84%EA%B8%B0%EB%A1%9C-%EB%A7%88%EC%B9%98%EA%B8%B0' target='_blank'>[CD] 만든 과정 포스팅글은 점프, 후기로 마치기</a></li><li><a href='https://recordoftheday.tistory.com/entry/LabbitLog-%EB%B0%B0%ED%8F%AC' target='_blank'>LabbitLog 배포</a></li></ul>
