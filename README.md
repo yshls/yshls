@@ -1,3 +1,4 @@
+
 <!-- 타이핑 효과 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FBA12F&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Yang+Sehyun!;Frontend+Developer+in+Progress;Clean+UI%2C+Clear+Logic;Slow+and+Steady+Growth" />
@@ -31,28 +32,17 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yshls&show_icons=true&theme=slateorange&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" width="350" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshls&layout=compact&theme=slateorange&hide_border=true" width="350" />
-</p>
+</p> 
 
 ---
 
 ## 🚀 Currently Working On
 
-- Enhancing React skills
-- Practicing algorithms and data structures
-- Designing accessible UI components
+- Enhancing React skills  
+- Practicing algorithms and data structures  
+- Designing accessible UI components  
 
 ---
 
 ## 📕 Latest Blog Posts
-<<<<<<< HEAD
-
-<ul><li><a href='https://recordoftheday.tistory.com/entry/URECA-3%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' target='_blank'>[URECA] 학습 블로깅은 데일리 프로젝트 회고로 대체</a></li><li><a href='https://recordoftheday.tistory.com/entry/LabbitLog-%EB%B0%B0%ED%8F%AC' target='_blank'>LabbitLog 배포</a></li><li><a href='https://recordoftheday.tistory.com/entry/URECA-LabiitLog-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0' target='_blank'>[URECA] LabiitLog 블로그 만들기</a></li></ul>
-
----
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{yshls}?pet-id=1" width="1000" height="120"/>
-</a>
-=======
 <ul><li><a href='https://recordoftheday.tistory.com/entry/URECA-%EC%9A%94%ED%94%8C%EB%9E%9C-%ED%86%B5%EC%8B%A0%EC%82%AC-%EC%9A%94%EA%B8%88%EC%A0%9C-%EC%B6%94%EC%B2%9C-AI-%EC%B1%97%EB%B4%87-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5-%ED%94%8C%EB%9E%AB%ED%8F%BC-1' target='_blank'>[URECA] 요플랜: 통신사 요금제 추천 AI 챗봇 서비스 제공 플랫폼 -</a></li><li><a href='https://recordoftheday.tistory.com/entry/%EB%94%94%EC%9E%90%EC%9D%B8-%EB%81%84%EC%9D%95' target='_blank'>[URECA] 요플랜: 통신사 요금제 추천 AI 챗봇 서비스 제공 플랫폼 - 디자인 끄읕!</a></li><li><a href='https://recordoftheday.tistory.com/entry/URECA-AI-%EC%B1%97%EB%B4%87-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%98%EC%98%81-%ED%9B%84-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC' target='_blank'>[URECA]요플랜: 통신사 요금제 추천 AI 챗봇 서비스 제공 플랫폼 - 피드백 반영 후 디자인 마무리</a></li></ul>
->>>>>>> 6e112109d058cdd35d5dc3b529f99607e9532409
