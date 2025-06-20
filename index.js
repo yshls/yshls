@@ -7,8 +7,12 @@ const parser = new Parser({
   },
 });
 
-// 초기 텍스트 정의
 let text = `
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yshls}?pet-id=1" width="1000" height="120"/>
+</a>
+
+
 <!-- 타이핑 효과 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FBA12F&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Yang+Sehyun!;Frontend+Developer+in+Progress;Clean+UI%2C+Clear+Logic;Slow+and+Steady+Growth" />
@@ -71,14 +75,6 @@ let text = `
   }
 
   text += `</ul>`;
-
-  text += `
----
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{yshls}?pet-id=1" width="1000" height="120"/>
-</a>
-`;
 
   writeFileSync('README.md', text, 'utf8');
   console.log('업데이트 완료');
