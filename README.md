@@ -1,4 +1,3 @@
-
 <!-- 타이핑 효과 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FBA12F&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Yang+Sehyun!;Frontend+Developer+in+Progress;Clean+UI%2C+Clear+Logic;Slow+and+Steady+Growth" />
@@ -32,17 +31,24 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yshls&show_icons=true&theme=slateorange&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" width="350" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshls&layout=compact&theme=slateorange&hide_border=true" width="350" />
-</p> 
+</p>
 
 ---
 
 ## 🚀 Currently Working On
 
-- Enhancing React skills  
-- Practicing algorithms and data structures  
-- Designing accessible UI components  
+- Enhancing React skills
+- Practicing algorithms and data structures
+- Designing accessible UI components
 
 ---
 
 ## 📕 Latest Blog Posts
+
 <ul><li><a href='https://recordoftheday.tistory.com/entry/URECA-3%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' target='_blank'>[URECA] 학습 블로깅은 데일리 프로젝트 회고로 대체</a></li><li><a href='https://recordoftheday.tistory.com/entry/LabbitLog-%EB%B0%B0%ED%8F%AC' target='_blank'>LabbitLog 배포</a></li><li><a href='https://recordoftheday.tistory.com/entry/URECA-LabiitLog-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0' target='_blank'>[URECA] LabiitLog 블로그 만들기</a></li></ul>
+
+---
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yshls}?pet-id=1" width="1000" height="120"/>
+</a>
