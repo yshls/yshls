@@ -49,6 +49,6 @@
 ---
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/yshls?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{yshls}?pet-id=1" width="1000" height="120"/>
 </a>
 <ul><li><a href='https://recordoftheday.tistory.com/entry/URECA-%EC%9A%94%ED%94%8C%EB%9E%9C-%ED%86%B5%EC%8B%A0%EC%82%AC-%EC%9A%94%EA%B8%88%EC%A0%9C-%EC%B6%94%EC%B2%9C-AI-%EC%B1%97%EB%B4%87-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5-%ED%94%8C%EB%9E%AB%ED%8F%BC-1' target='_blank'>[URECA] 요플랜: 통신사 요금제 추천 AI 챗봇 서비스 제공 플랫폼 -</a></li><li><a href='https://recordoftheday.tistory.com/entry/%EB%94%94%EC%9E%90%EC%9D%B8-%EB%81%84%EC%9D%95' target='_blank'>[URECA] 요플랜: 통신사 요금제 추천 AI 챗봇 서비스 제공 플랫폼 - 디자인 끄읕!</a></li><li><a href='https://recordoftheday.tistory.com/entry/URECA-AI-%EC%B1%97%EB%B4%87-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%98%EC%98%81-%ED%9B%84-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%88%EB%AC%B4%EB%A6%AC' target='_blank'>[URECA]요플랜: 통신사 요금제 추천 AI 챗봇 서비스 제공 플랫폼 - 피드백 반영 후 디자인 마무리</a></li></ul>
