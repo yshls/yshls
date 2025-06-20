@@ -72,14 +72,14 @@ let text = `
 
   text += `</ul>`;
 
-  writeFileSync('README.md', text, 'utf8');
-  console.log('업데이트 완료');
-})();
-
-text += `
+  text += `
 ---
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{yshls}?pet-id=1" width="1000" height="120"/>
 </a>
 `;
+
+  writeFileSync('README.md', text, 'utf8');
+  console.log('업데이트 완료');
+})();
