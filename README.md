@@ -50,4 +50,4 @@
 ---
 
 ## 📕 Latest Blog Posts
-<ul><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8-Type-Assertion' target='_blank'>[TypeScript] 타입 단언 (Type Assertion)</a></li><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0-Type-Inference' target='_blank'>[TypeScript] 타입 추론 (Type Inference)</a></li><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%EB%8C%80%EC%88%98-%ED%83%80%EC%9E%85-Algebraic-Type' target='_blank'>[TypeScript] 대수 타입 (Algebraic Type)</a></li></ul>
+<ul><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0-Type-Narrowing' target='_blank'>[TypeScript] 타입 좁히기 (Type Narrowing)</a></li><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8-Type-Assertion' target='_blank'>[TypeScript] 타입 단언 (Type Assertion)</a></li><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0-Type-Inference' target='_blank'>[TypeScript] 타입 추론 (Type Inference)</a></li></ul>
