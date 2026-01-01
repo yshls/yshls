@@ -50,4 +50,4 @@
 ---
 
 ## 📕 Latest Blog Posts
-<ul><li><a href='https://recordoftheday.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0' target='_blank'>[알고리즘] 자료구조</a></li><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0-Type-Narrowing' target='_blank'>[TypeScript] 타입 좁히기 (Type Narrowing)</a></li><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8-Type-Assertion' target='_blank'>[TypeScript] 타입 단언 (Type Assertion)</a></li></ul>
+<ul><li><a href='https://recordoftheday.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%81%B4%EB%9E%98%EC%8A%A4' target='_blank'>[알고리즘] 클래스</a></li><li><a href='https://recordoftheday.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0' target='_blank'>[알고리즘] 자료구조</a></li><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0-Type-Narrowing' target='_blank'>[TypeScript] 타입 좁히기 (Type Narrowing)</a></li></ul>
