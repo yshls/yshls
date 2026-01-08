@@ -50,4 +50,4 @@
 ---
 
 ## 📕 Latest Blog Posts
-<ul><li><a href='https://recordoftheday.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%81%B4%EB%9E%98%EC%8A%A4' target='_blank'>[알고리즘] 클래스</a></li><li><a href='https://recordoftheday.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0' target='_blank'>[알고리즘] 자료구조</a></li><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0-Type-Narrowing' target='_blank'>[TypeScript] 타입 좁히기 (Type Narrowing)</a></li></ul>
+<ul><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%ED%95%A8%EC%88%98-%ED%83%80%EC%9E%85' target='_blank'>[TypeScript] 함수 타입</a></li><li><a href='https://recordoftheday.tistory.com/entry/TypeScript-%EC%84%9C%EB%A1%9C%EC%86%8C-%EC%9C%A0%EB%8B%88%EC%98%A8-%ED%83%80%EC%9E%85' target='_blank'>[TypeScript] 서로소 유니온 타입</a></li><li><a href='https://recordoftheday.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%81%B4%EB%9E%98%EC%8A%A4' target='_blank'>[알고리즘] 클래스</a></li></ul>
